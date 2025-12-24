@@ -1,9 +1,9 @@
 # 🌐 Modern Portfolio Website
 
+![logo](pre.png)
+
 A sleek, responsive, and interactive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
 Designed to showcase your skills, projects, and experience with elegant animations and smooth user interactions.
-
-![logo](pre.png)
 
 ---
 
